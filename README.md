@@ -1,0 +1,1 @@
+This is a circuit to modify standard monitor to only turn on LED during 2-photon microscope scan line turn around. It includes knobs to tune onset time relative to end of acquisition of line signal, and on time length. It was designed and built by Eric D'Andria.
