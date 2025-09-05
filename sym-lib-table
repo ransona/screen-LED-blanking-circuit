@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "1N4007")(type "KiCad")(uri "${KIPRJMOD}/libs/1N4007.kicad_sym")(options "")(descr ""))
+  (lib (name "BSS87_115")(type "KiCad")(uri "${KIPRJMOD}/libs/BSS87_115.kicad_sym")(options "")(descr ""))
+  (lib (name "IRF530N")(type "KiCad")(uri "${KIPRJMOD}/libs/IRF530NPBF.kicad_sym")(options "")(descr ""))
+)

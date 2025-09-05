@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRF530NPBF
+D IRF530NPBF N-Channel MOSFET, 17 A, 100 V HEXFET, 3-Pin TO-220AB Infineon
+K
+F https://www.arrow.com/en/products/irf530npbf/infineon-technologies-ag
+$ENDCMP
+#
+#End Doc Library
